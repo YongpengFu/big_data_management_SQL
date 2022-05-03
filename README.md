@@ -70,3 +70,24 @@ Most of the datasets we gathered are organized in a tabular format unless otherw
 * number-of-deaths-by-risk-factor
 
     10. Study on the `causes of death` that has been publushed in the medical journal, the Lancet. This dataset gives estimates of the annual number of deaths for various causes such as high blood pressure, dierary choices such as alcohol consumptions and others. The total number of deaths encompases both male and female for all ages.
+
+
+# Reference
+[1]: “Life Expectancy” – What does this actually mean? (n.d.). Our World in Data. Retrieved March 8, 2022, from https://ourworldindata.org/life-expectancy-how-is-it-calculated-and-how-should-it-be-interpreted  
+[2]: Roser, M., Ortiz-Ospina, E., & Ritchie, H. (2013). Life expectancy. Our World in Data. Retrieved March 8, 2022, from https://ourworldindata.org/life-expectancy  
+[3]: Max Roser, Esteban Ortiz-Ospina and Hannah Ritchie. “Life Expectancy” Our World in Data. March 04, 2022. https://ourworldindata.org/life-expectancy#life-expectancy-has-improved-globally  
+[4]: James C. Riley (2005) – Estimates of Regional and Global Life Expectancy, 1800–2001. Issue Population and Development Review. Population and Development Review. Volume 31, Issue 3, pages 537–543, September 2005.  
+[5]: Zijdeman, Richard; Ribeira da Silva, Filipa, 2015, "Life Expectancy at Birth (Total)", http://hdl.handle.net/10622/LKYT53, IISH Dataverse, V1, and UN Population Division (2019).  
+[6]: Bolt, Jutta and Jan Luiten van Zanden (2020), "Maddison style estimates of the evolution of the world economy. A new 2020 update”.  
+[7]: IBAN, "COUNTRY CODES ALPHA-2 & ALPHA-3". Accessed March 18 2022, from https://www.iban.com/country-codes  
+[8]: Istvan M. Majer, Wilma J. Nusselder, Johan P. Mackenbach, 2011, "Mortality Risk Associated With Disability: A Population-Based Record Linkage Study" Am J Public Health. 2011 December; 101(12): e9–e15.  
+[9]: prdip, "Writing a connection string when password contains special characters", stack overFlow. Accessed March 18 2022, from https://stackoverflow.com/questions/1423804/writing-a-connection-string-when-password-contains-special-characters  
+[10]: Government of Canada, Statistics Canada. Gender Gaps—Life Expectancy and Proportion of Life in Poor Health. 17 Dec. 2014, https://www150.statcan.gc.ca/n1/pub/82-003-x/2014012/article/14127-eng.htm.  
+[11]: Rieker PP, Bird CE. Rethinking gender differences in health: why we need to integrate social and biological perspectives. Journals of Gerontology: Psychological Sciences and Social Sciences 2005; 60B: 40-7.  
+[12]: Nathanson CA. Sex differences in mortality. Annual Review of Sociology 1984; 10: 191-213.  
+[13]: Verbrugge LM. Gender and health: an update on hypotheses and evidence. Journal of Health and Social Behavior 1985; 26: 156-82.  
+[14]: Verbrugge LM, Wingard DL. Sex differentials in health and mortality. Women and Health 1987; 12: 103-45.  
+[15]: Grundy E. Gender and healthy aging. In: Zeng Y, Crimmins EM, Carrière Y, Robine J-M, editors. Longer Life and Healthy Aging. Dordrecht: Springer, 2006: 173-99.  
+[16]: Crimmins EM, Kim JK, Hagedorn A. Life with and without disease: women experience more of both. Journal of Women and Aging 2002; 14: 47-59.  
+[17]: Van Oyen H, Nusselder W, Jagger C, et al. Gender differences in healthy life years within the EU: an exploration of the "health-survival" paradox. International Journal of Public Health 2013; 58: 143-55.  
+[18]: Crimmins EM, Hayward MD, Saito Y. Differentials in active life expectancy in the older population of the United States. Journals of Gerontology: Psychological Sciences and Social Sciences 1996; 51B(3): S111-S20.
